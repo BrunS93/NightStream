@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/NightStream.iml" filepath="$PROJECT_DIR$/.idea/NightStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Backend/NightStream.iml" filepath="$PROJECT_DIR$/src/Backend/NightStream.iml" />
     </modules>
   </component>
 </project>
